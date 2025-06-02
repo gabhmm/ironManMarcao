@@ -1,7 +1,6 @@
 import pygame, random
 from recursos.basicos import limparTela, aguarde
 
-print('Ola mundo!')
 pygame.init()
 
 tamanho = (800, 600)
